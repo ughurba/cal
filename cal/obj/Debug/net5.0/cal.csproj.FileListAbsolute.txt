@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\cal\cal\bin\Debug\net5.0\cal.exe
+C:\Users\Clean__Laptop\Desktop\cal\cal\bin\Debug\net5.0\cal.deps.json
+C:\Users\Clean__Laptop\Desktop\cal\cal\bin\Debug\net5.0\cal.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\cal\cal\bin\Debug\net5.0\cal.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\cal\cal\bin\Debug\net5.0\cal.dll
+C:\Users\Clean__Laptop\Desktop\cal\cal\bin\Debug\net5.0\cal.pdb
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.dll
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\refint\cal.dll
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.pdb
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\cal.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\cal\cal\obj\Debug\net5.0\ref\cal.dll
